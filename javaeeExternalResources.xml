@@ -1,0 +1,9 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://cocoon.apache.org/schema/avalon" location="$USER_HOME$/.IntelliJIdea14/system/extResources/323b6aae_cocoon-avalon-1.0.xsd" />
+    <resource url="http://cocoon.apache.org/schema/avalon/cocoon-avalon-1.0.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/323b6aae_cocoon-avalon-1.0.xsd" />
+    <resource url="http://cocoon.apache.org/schema/configurator" location="$USER_HOME$/.IntelliJIdea14/system/extResources/70c0441d_cocoon-configurator-1.0.1.xsd" />
+    <resource url="http://cocoon.apache.org/schema/configurator/cocoon-configurator-1.0.1.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/70c0441d_cocoon-configurator-1.0.1.xsd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
+  </component>
+</application>
