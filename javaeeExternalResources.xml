@@ -5,5 +5,6 @@
     <resource url="http://cocoon.apache.org/schema/configurator" location="$USER_HOME$/.IntelliJIdea14/system/extResources/70c0441d_cocoon-configurator-1.0.1.xsd" />
     <resource url="http://cocoon.apache.org/schema/configurator/cocoon-configurator-1.0.1.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/70c0441d_cocoon-configurator-1.0.1.xsd" />
     <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
   </component>
 </application>
